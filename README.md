@@ -17,9 +17,7 @@ This calculator supports the four basic arithmetic operations:
 ---
 
 ## 📸 Screenshots
-Add your screenshots in a folder named `/screenshots` and link them like this:
-
-![Calculator Screenshot](screenShot/calculator_img.png)
+![Calculator Screenshot](screenShot/caclulator_img.png)
 
 ---
 
